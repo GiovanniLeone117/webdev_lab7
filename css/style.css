@@ -23,22 +23,19 @@ body {
   background-image: url(../images/background.png);
   background-repeat: no-repeat;
   background-size: cover;
-}
+  }
 img {
   width:100px;
   height:100px;
-}
-
+  }
 .row-header {
   font-family: "Walter Turncoat", cursive;
-}
-
+  }
 .superscript {
   position: relative;
   bottom: 10px;
   font-size: .6em;
-}
-  
+  }
 #content-wrapper {
   height: 70%;
   position: absolute;
@@ -47,8 +44,7 @@ img {
   left:0;
   right:0;
   margin: auto;
-}
-  
+  }
 #planets {
   width: 50%;
   height: 80%;
