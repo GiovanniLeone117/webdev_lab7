@@ -1,5 +1,5 @@
 td, th {
-	border: 2px solid;
+	border: 1px solid;
   color: #f0f1f5;
   text-align: center;
   }
@@ -31,6 +31,12 @@ img {
 
 .row-header {
   font-family: "Walter Turncoat", cursive;
+}
+
+.superscript {
+  position: relative;
+  bottom: 10px;
+  font-size: .6em;
 }
   
 #content-wrapper {
