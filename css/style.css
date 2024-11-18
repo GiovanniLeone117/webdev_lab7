@@ -3,11 +3,11 @@ td, th {
   color: #f0f1f5;
   text-align: center;
   }
-  th {
+th {
     font-family: "Walter Turncoat", cursive;
     font-weight: 400;
     font-style: normal;
-    color: 
+    font-size: 1.2em; 
   }
 h1 {
   text-align: center;
@@ -19,7 +19,6 @@ body, html {
   height: 100%;
   }
 body {
-  background-color: black;
   background-image: url(../images/background.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -30,6 +29,7 @@ img {
   }
 .row-header {
   font-family: "Walter Turncoat", cursive;
+  font-size: 1.2em;
   }
 .superscript {
   position: relative;
