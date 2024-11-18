@@ -1,6 +1,13 @@
 td, th {
-	border: 1px solid;
+	border: 2px solid;
   color: #f0f1f5;
+  text-align: center;
+  }
+  th {
+    font-family: "Walter Turncoat", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: 
   }
 h1 {
   text-align: center;
@@ -12,14 +19,22 @@ body, html {
   height: 100%;
   }
 body {
+  background-color: black;
   background-image: url(../images/background.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: black;
+}
+img {
+  width:100px;
+  height:100px;
+}
+
+.row-header {
+  font-family: "Walter Turncoat", cursive;
 }
   
 #content-wrapper {
-  height: 50%;
+  height: 70%;
   position: absolute;
   top:0;
   bottom:0;
